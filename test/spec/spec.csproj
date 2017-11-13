@@ -21,8 +21,4 @@
     <ProjectReference Include="..\..\src\variables\variables.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Specs\Plan Variable Suite\" />
-  </ItemGroup>
-
 </Project>
